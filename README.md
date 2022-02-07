@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+React playground
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+link: https://avni25.github.io/my-app/
 
 ## Available Scripts
 
